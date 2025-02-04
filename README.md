@@ -1,0 +1,2 @@
+# patika
+Patika ödevleri için
